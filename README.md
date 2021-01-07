@@ -10,6 +10,7 @@
 
 ## TODO
 - Tests
+- Config documentation and examples
 - TLS support (Incoming)
 - TLS support (Outgoing)
 - Add comparison to other reverse proxies (Nginx, Caddy, HAProxy, ...)
